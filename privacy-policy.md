@@ -1,6 +1,6 @@
 # Privacy Policy for Cookly
 
-_Last updated: 2026-04-17_
+_Last updated: 2026-04-26_
 
 Cookly ("the App", "we", "us") is a mobile application that generates cooking
 recipes from a list of ingredients you provide. This policy describes what
@@ -62,6 +62,32 @@ Depending on where you live, you may have the right to access, correct,
 export, or delete the personal data we hold about you, and to object to or
 restrict certain processing. To exercise these rights, contact us at the
 address below.
+
+### 5.1 Brazilian users — LGPD (Lei nº 13.709/2018)
+
+For users located in Brazil, Cookly acts as the *controlador* of your
+personal data under the LGPD. In addition to the general rights above,
+Article 18 of the LGPD specifically guarantees you the right to:
+
+- Confirm whether we process your data, and access that data;
+- Correct incomplete, inaccurate, or out-of-date data;
+- Anonymize, block, or delete unnecessary or excessive data, or data
+  processed in non-compliance with the LGPD;
+- Port your data to another service provider, on request;
+- Delete personal data processed under your consent, except where
+  retention is required for legal, contractual, or regulatory reasons;
+- Be informed about the public and private entities with which we have
+  shared your data;
+- Be informed about the possibility of refusing to give consent and the
+  consequences of refusal;
+- Revoke consent at any time.
+
+The legal bases on which we process your data under LGPD Article 7 are
+**execution of the contract with the data subject** (providing the
+recipe-generation service) and **legitimate interest** (preventing fraud
+and abuse via usage counters and quota enforcement). To exercise any
+LGPD right, write to the contact address in Section 9 — we will respond
+within 15 days as required by Article 19.
 
 ## 6. Children
 
